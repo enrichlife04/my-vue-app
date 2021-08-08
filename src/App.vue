@@ -19,7 +19,7 @@ export default {
   },
   data: function () {
     return {
-      message: "WebExpert Course Vue Template",
+      message: "変更されているか確認するお！",
     }
   },
   methods: {},
